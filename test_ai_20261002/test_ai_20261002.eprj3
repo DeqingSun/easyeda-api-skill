@@ -1,0 +1,67 @@
+{
+  "name": "test_ai_20261002",
+  "owner_uuid": "47619bad2c864f32ad60dbd428e0701b",
+  "creator_uuid": "47619bad2c864f32ad60dbd428e0701b",
+  "created_at": "2026-10-02 21:50:04",
+  "updated_at": "2026-10-02 21:50:04",
+  "modifier_uuid": "47619bad2c864f32ad60dbd428e0701b",
+  "content": "",
+  "archive": false,
+  "cbb_project": 0,
+  "thumb": "",
+  "ticket": 1,
+  "g_ticket": 1,
+  "boards": [],
+  "block_symbol_attrs_groups": {},
+  "default_sheet": "",
+  "branch_uuid": "",
+  "pcb_count": 0,
+  "format": "folder",
+  "config": "{\"type\":\"DOCHEAD\",\"ticket\":10}||{\"docType\":\"BOARD\",\"client\":\"3f25c465573a09ec\",\"uuid\":\"a319c363c2df97cd\",\"updateTime\":1784907722548,\"version\":\"1784907722548\",\"editVersion\":\"3.2.148\",\"user\":{\"uuid\":\"19d0c4c2dcf840ae9233ec88fafaa199\",\"nickname\":\"deqing_smart_design\",\"username\":\"deqing_smart_design\",\"avatar\":\"/images/avatar-default.png\"}}|\n{\"type\":\"META\",\"ticket\":9,\"id\":\"META\"}||{\"title\":\"Board_doorangle_2026_may\",\"zIndex\":5}",
+  "profile": {
+    "boards": {
+      "a319c363c2df97cd": {
+        "uuid": "a319c363c2df97cd",
+        "title": "Board_doorangle_2026_may",
+        "zIndex": 5
+      }
+    },
+    "schematics": {
+      "6b066c6fa2754b8aafd40f6453c7ec83": {
+        "uuid": "6b066c6fa2754b8aafd40f6453c7ec83",
+        "name": "Schematic_doorangle_2026_may",
+        "board": "a319c363c2df97cd",
+        "version": "1779385752000",
+        "updateTime": 1779385752000
+      }
+    },
+    "sheets": {
+      "dff3436fac554ceb818b3812f653448f": {
+        "uuid": "dff3436fac554ceb818b3812f653448f",
+        "title": "P1",
+        "schematic_uuid": "6b066c6fa2754b8aafd40f6453c7ec83",
+        "zIndex": 1,
+        "version": "1779400153000",
+        "updateTime": 1779400153000
+      }
+    },
+    "pcbs": {
+      "e7c30b37d33348e7894dbff2ca5cb155": {
+        "uuid": "e7c30b37d33348e7894dbff2ca5cb155",
+        "title": "PCB_doorangle_2026_may",
+        "board": "a319c363c2df97cd",
+        "zIndex": null,
+        "parent_uuid": "",
+        "version": "1779400153000",
+        "updateTime": 1779400153000
+      }
+    },
+    "panels": {},
+    "blockSymbols": {},
+    "owner": {
+      "uuid": "/Users/deqinguser/Documents/GitHub/easyeda-api-skill",
+      "username": "",
+      "nickname": ""
+    }
+  }
+}
