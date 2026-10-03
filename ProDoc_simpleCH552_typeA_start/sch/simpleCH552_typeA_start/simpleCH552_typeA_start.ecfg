@@ -1,2 +1,4 @@
-{"type":"DOCHEAD","ticket":3}||{"docType":"SCH","client":"86938121bccf6b20","uuid":"99f6142728eb4f87982c57f76e2fa058","updateTime":1790996791296,"version":"1790996791296","editVersion":"4.1.60","user":{"uuid":"47619bad2c864f32ad60dbd428e0701b","nickname":"dq_sun","username":"dq_sun","avatar":""}}|
-{"type":"META","ticket":5,"id":"META"}||{"title":"simpleCH552_typeA_start","board":"81e88f3180675222","zIndex":null}
+{"type":"DOCHEAD","ticket":629}||{"docType":"SCH","client":"6006d2cc87d02bc8","uuid":"99f6142728eb4f87982c57f76e2fa058","updateTime":1790997291327,"version":"1790997291327","editVersion":"4.1.60","user":{"uuid":"47619bad2c864f32ad60dbd428e0701b","nickname":"dq_sun","username":"dq_sun","avatar":""}}|
+{"type":"META","ticket":5,"id":"META"}||{"title":"simpleCH552_typeA_start","board":"81e88f3180675222","zIndex":null}|
+{"type":"RULE","ticket":627,"id":"[\"RULE\",\"TRACK\",\"copperThickness1oz\"]"}||{"ruleState":"DEFAULT","ruleContext":{"unit":"mm","track":{"isOpen":true,"content":[{"layerId":1,"stroDef":0.254,"stroMax":2.54,"stroMin":0.127}]}}}|
+{"type":"RULE","ticket":628,"id":"[\"RULE\",\"TRACK\",\"copperThickness2oz\"]"}||{"ruleState":"NORMAL","ruleContext":{"unit":"mm","track":{"isOpen":true,"content":[{"layerId":1,"stroDef":0.254,"stroMax":2.54,"stroMin":0.203}]}}}

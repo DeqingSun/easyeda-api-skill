@@ -1,0 +1,3 @@
+const net='$1N2908',ids=[],vias=[];for(const [x,y]of [[1095,235],[1295,120],[1295,350]]){const v=await eda.pcb_PrimitiveVia.create(net,x,y,12,24);if(!v)throw Error('via');vias.push(v.getState_PrimitiveId());}
+const routes=[[1,[[1079.4,245],[1085,245],[1095,235]]],[2,[[1095,235],[1095,110],[1285,110],[1295,120],[1295,350]]],[1,[[1295,120],[1295,85.7],[1315,65.7],[1348.6,65.7]]],[1,[[1295,350],[1295,350.7],[1348.6,404.3]]]];
+for(const [layer,points]of routes){for(let i=1;i<points.length;i++){const a=points[i-1],b=points[i];const t=await eda.pcb_PrimitiveLine.create(net,layer,...a,...b,8);if(!t)throw Error('trace');ids.push(t.getState_PrimitiveId());}}return {ids,vias,drc:await eda.pcb_Drc.check(true,false,true)};

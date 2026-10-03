@@ -1,0 +1,1 @@
+{"ok":true,"value":[{"async":true,"primitiveType":"Pour","net":"GND","layer":2,"complexPolygon":{"polygon":[0,0,"L",0,472,1400,472,1400,0,0,0]},"pourFillMethod":"solid","preserveSilos":false,"pourName":"ie50","pourPriority":1,"lineWidth":0.2,"primitiveLock":false,"primitiveId":"ie50"}],"logs":[],"durationMs":6}

@@ -1,0 +1,1 @@
+{"ok":true,"value":{"title":"打开工程","remarks":"本操作将会在 EDA 前端打开指定工程，如若原先已打开其它工程且有未保存的变更，执行本操作将直接丢失所有未保存的数据","params":[{"name":"projectUuid","type":"string","description":"工程 UUID","required":true}],"returns":{"type":"boolean"}},"logs":[],"durationMs":105}
