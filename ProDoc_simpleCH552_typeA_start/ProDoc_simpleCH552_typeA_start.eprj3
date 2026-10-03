@@ -1,0 +1,67 @@
+{
+  "name": "ProDoc_simpleCH552_typeA_start",
+  "owner_uuid": "47619bad2c864f32ad60dbd428e0701b",
+  "creator_uuid": "47619bad2c864f32ad60dbd428e0701b",
+  "created_at": "2026-10-02 23:06:33",
+  "updated_at": "2026-10-02 23:06:33",
+  "modifier_uuid": "47619bad2c864f32ad60dbd428e0701b",
+  "content": "",
+  "archive": false,
+  "cbb_project": 0,
+  "thumb": "",
+  "ticket": 1,
+  "g_ticket": 1,
+  "boards": [],
+  "block_symbol_attrs_groups": {},
+  "default_sheet": "",
+  "branch_uuid": "",
+  "pcb_count": 0,
+  "format": "folder",
+  "config": "{\"type\":\"DOCHEAD\",\"ticket\":2}||{\"docType\":\"BOARD\",\"client\":\"86938121bccf6b20\",\"uuid\":\"81e88f3180675222\",\"updateTime\":1790996791296,\"version\":\"1790996791296\",\"editVersion\":\"4.1.60\",\"user\":{\"uuid\":\"47619bad2c864f32ad60dbd428e0701b\",\"nickname\":\"dq_sun\",\"username\":\"dq_sun\",\"avatar\":\"\"}}|\n{\"type\":\"META\",\"ticket\":1,\"id\":\"META\"}||{\"title\":\"simpleCH552_typeA_start\",\"zIndex\":1}|\n{\"type\":\"DOCHEAD\",\"ticket\":87}||{\"docType\":\"CONFIG\",\"client\":\"86938121bccf6b20\",\"uuid\":\"CONFIG\",\"updateTime\":1790996791296,\"version\":\"1790996791296\",\"editVersion\":\"4.1.60\",\"user\":{\"uuid\":\"47619bad2c864f32ad60dbd428e0701b\",\"nickname\":\"dq_sun\",\"username\":\"dq_sun\",\"avatar\":\"\"}}|\n{\"type\":\"META\",\"ticket\":88,\"id\":\"META\"}||{\"defaultSheet\":\"\"}",
+  "profile": {
+    "boards": {
+      "81e88f3180675222": {
+        "uuid": "81e88f3180675222",
+        "title": "simpleCH552_typeA_start",
+        "zIndex": 1
+      }
+    },
+    "schematics": {
+      "99f6142728eb4f87982c57f76e2fa058": {
+        "uuid": "99f6142728eb4f87982c57f76e2fa058",
+        "name": "simpleCH552_typeA_start",
+        "board": "81e88f3180675222",
+        "version": "1790996791296",
+        "updateTime": 1790996791296
+      }
+    },
+    "sheets": {
+      "5ff57169d7aa4cda9b7ea0cc7ea9e9c5": {
+        "uuid": "5ff57169d7aa4cda9b7ea0cc7ea9e9c5",
+        "title": "simpleCH552_typeA_start_1",
+        "schematic_uuid": "99f6142728eb4f87982c57f76e2fa058",
+        "zIndex": 1,
+        "version": "1790996791296",
+        "updateTime": 1790996791296
+      }
+    },
+    "pcbs": {
+      "b94fac5e9b834a7aaae36a3a69acdf31": {
+        "uuid": "b94fac5e9b834a7aaae36a3a69acdf31",
+        "title": "simpleCH552_typeA_start",
+        "board": "81e88f3180675222",
+        "zIndex": null,
+        "parent_uuid": "",
+        "version": "1790996791296",
+        "updateTime": 1790996791296
+      }
+    },
+    "panels": {},
+    "blockSymbols": {},
+    "owner": {
+      "uuid": "/Users/deqinguser/Documents/GitHub/easyeda-api-skill",
+      "username": "",
+      "nickname": ""
+    }
+  }
+}
