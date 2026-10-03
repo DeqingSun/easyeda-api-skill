@@ -1,0 +1,1 @@
+{"ok":true,"value":{"title":"将层设置为不可见","params":[{"name":"layer","type":"TPCB_LayersInTheSelectable | Array<TPCB_LayersInTheSelectable>","description":"层，如若不指定任何层则默认为所有层","required":false},{"name":"setOtherLayerVisible","type":"boolean","description":"是否将其它层设置为可见","required":false}],"returns":{"type":"boolean"}},"logs":[],"durationMs":112}

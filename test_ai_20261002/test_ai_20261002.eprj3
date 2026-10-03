@@ -46,6 +46,15 @@
       }
     },
     "pcbs": {
+      "39af7ba1b8f6f809": {
+        "uuid": "39af7ba1b8f6f809",
+        "title": "CES Door Angle Sensor Board L REV-1.0",
+        "board": "",
+        "parent_uuid": "",
+        "source": "",
+        "version": "1790995429405",
+        "updateTime": 1790995429405
+      },
       "e7c30b37d33348e7894dbff2ca5cb155": {
         "uuid": "e7c30b37d33348e7894dbff2ca5cb155",
         "title": "PCB_doorangle_2026_may",
@@ -53,15 +62,6 @@
         "parent_uuid": "",
         "version": "1779400153000",
         "updateTime": 1779400153000
-      },
-      "39af7ba1b8f6f809": {
-        "uuid": "39af7ba1b8f6f809",
-        "title": "CES Door Angle Sensor Board L REV-1.0",
-        "board": "",
-        "parent_uuid": "",
-        "source": "",
-        "version": "1790993162123",
-        "updateTime": 1790993162123
       }
     },
     "panels": {},

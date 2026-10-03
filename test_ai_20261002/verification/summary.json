@@ -1,0 +1,40 @@
+{
+  "stage": "Placement review; unrouted",
+  "components": 13,
+  "componentPadNetAssignmentsMatched": 64,
+  "standaloneProgrammingPads": 4,
+  "netRecordsMatched": 24,
+  "sourceUnchanged": true,
+  "targetOutlineAndHoleGeometryUnchanged": true,
+  "AS5600": {
+    "centerMil": [
+      0,
+      0
+    ],
+    "locked": true
+  },
+  "CN1": {
+    "centerMil": [
+      -300,
+      -640
+    ],
+    "direction": "left"
+  },
+  "CN2": {
+    "centerMil": [
+      -220,
+      -1060
+    ],
+    "direction": "down"
+  },
+  "programmingPadDiameterMil": 60,
+  "programmingDrillDiameterMil": 36,
+  "drc": {
+    "Clearance Error": 2,
+    "Connection Error": 52
+  },
+  "remainingIssues": [
+    "Unrouted connections expected at placement stage",
+    "Two existing coincident board-outline/slot-region definitions at mounting holes; preserved for review"
+  ]
+}

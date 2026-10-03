@@ -1,0 +1,8 @@
+{
+  "keepoutRadiusMil": 83.7402,
+  "minimumTrackViaCopperDistanceFromHoleCentersMil": [
+    110.882,
+    183.319
+  ],
+  "passed": true
+}
