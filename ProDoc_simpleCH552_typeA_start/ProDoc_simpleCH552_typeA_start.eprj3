@@ -34,8 +34,8 @@
         "uuid": "99f6142728eb4f87982c57f76e2fa058",
         "name": "simpleCH552_typeA_start",
         "board": "81e88f3180675222",
-        "version": "1790997524356",
-        "updateTime": 1790997524356
+        "version": "1790996791296",
+        "updateTime": 1790996791296
       }
     },
     "sheets": {
@@ -44,8 +44,8 @@
         "title": "simpleCH552_typeA_start_1",
         "schematic_uuid": "99f6142728eb4f87982c57f76e2fa058",
         "zIndex": 1,
-        "version": "1790997524356",
-        "updateTime": 1790997524356
+        "version": "1790996791296",
+        "updateTime": 1790996791296
       }
     },
     "pcbs": {
@@ -54,8 +54,8 @@
         "title": "simpleCH552_typeA_start",
         "board": "81e88f3180675222",
         "parent_uuid": "",
-        "version": "1791000066421",
-        "updateTime": 1791000066421
+        "version": "1790996791296",
+        "updateTime": 1790996791296
       }
     },
     "panels": {},
