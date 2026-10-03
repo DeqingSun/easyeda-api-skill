@@ -31,8 +31,8 @@
         "uuid": "6b066c6fa2754b8aafd40f6453c7ec83",
         "name": "Schematic_doorangle_2026_may",
         "board": "a319c363c2df97cd",
-        "version": "1779385752000",
-        "updateTime": 1779385752000
+        "version": "1779400153000",
+        "updateTime": 1779400153000
       }
     },
     "sheets": {
@@ -50,18 +50,26 @@
         "uuid": "e7c30b37d33348e7894dbff2ca5cb155",
         "title": "PCB_doorangle_2026_may",
         "board": "a319c363c2df97cd",
-        "zIndex": null,
         "parent_uuid": "",
         "version": "1779400153000",
         "updateTime": 1779400153000
+      },
+      "39af7ba1b8f6f809": {
+        "uuid": "39af7ba1b8f6f809",
+        "title": "CES Door Angle Sensor Board L REV-1.0",
+        "board": "",
+        "parent_uuid": "",
+        "source": "",
+        "version": "1790993162123",
+        "updateTime": 1790993162123
       }
     },
     "panels": {},
     "blockSymbols": {},
     "owner": {
-      "uuid": "/Users/deqinguser/Documents/GitHub/easyeda-api-skill",
-      "username": "",
-      "nickname": ""
-    }
+      "uuid": "47619bad2c864f32ad60dbd428e0701b"
+    },
+    "simSchematics": {},
+    "simulations": {}
   }
 }
